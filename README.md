@@ -1,23 +1,23 @@
 ## Welcome to Support Webpage for FileUnzip
 
-FileUnzip is more powerful than most of the decompressed software，it almost supports all archive formats.
+FileUnzip is a very powerful file extraction tool, it is also a very powerful file management tool.
 
-- you can extract files from the following archive formats:
-Zip, Zipx, RAR, 7z, Tar, Gzip, Bzip2, CBZ, CBR, LZMA, XZ, CAB, MSI, NSIS, ISO, BIN, MDF, NRG, CDI, Jar ….
+- We support a lot of compression formats:
+Zip, Zipx, RAR, 7z, Tar, Gzip, Bzip2, CBZ, CBR, LZMA, XZ, CAB, MSI, NSIS, ISO, BIN, MDF, NRG, CDI, Jar ....
 
-- Support encrypted compression and decompression of encrypted files
+- We support decompression password compression package
 
-- Support extracting files from multi-volume archive files
+- We support compressed files and support for password compression
 
-- Support extracting files from multi-volume archive files
+- We support rich file management operations such as: copy, cut, paste, rename, send, share, etc.
 
-- Support extracting files from multi-volume archive files
+- We support file transfer function, which is very convenient for you to transfer and manage files on LAN.
 
-- Support extracting files from multi-volume archive files
+- We have a very powerful video player built in
 
-- Support extracting files from multi-volume archive files
+- We support interaction with the system file App
 
-- Support extracting files from multi-volume archive files
+- We support importing and exporting files, and can directly compress photo and video of albums
 
 
 Contatct us: markluckystar@gmail.com
